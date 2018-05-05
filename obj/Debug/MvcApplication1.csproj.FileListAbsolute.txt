@@ -1,0 +1,10 @@
+c:\users\hajan.selmani\documents\visual studio 2010\Projects\FS\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+c:\users\hajan.selmani\documents\visual studio 2010\Projects\FS\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+c:\users\hajan.selmani\documents\visual studio 2010\Projects\FS\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hajan.selmani\documents\visual studio 2010\Projects\FS\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+c:\users\hajan.selmani\documents\visual studio 2010\Projects\FS\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+E:\MICROSOFT COMMUNITY\ASP.NET WEBLOG\blogs\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+E:\MICROSOFT COMMUNITY\ASP.NET WEBLOG\blogs\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+E:\MICROSOFT COMMUNITY\ASP.NET WEBLOG\blogs\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\MICROSOFT COMMUNITY\ASP.NET WEBLOG\blogs\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+E:\MICROSOFT COMMUNITY\ASP.NET WEBLOG\blogs\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
